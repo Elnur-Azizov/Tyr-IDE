@@ -1,0 +1,16 @@
+build/
+debug/
+release/
+*.exe
+*.o
+*.obj
+*.dll
+*.user
+*.pro.user
+*.autosave
+*.log
+*.tmp
+*.cache
+.qtc_clangd/
+.qtcreator/
+mingw*/
