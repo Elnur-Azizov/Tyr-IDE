@@ -58,7 +58,3 @@ Bu proje, Türkçe anahtar kelimeler kullanılarak algoritma geliştirme deneyim
 
 
 
-\## Not
-
-Bu repo yalnızca proje kaynak kodlarını içermektedir. Rapor ve dokümantasyon ayrı olarak hazırlanacaktır.
-
